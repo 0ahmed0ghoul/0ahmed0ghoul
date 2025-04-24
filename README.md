@@ -3,8 +3,6 @@ Im currently studying , <br>Im a web developer (2 years of experience)<br>
 
 
 ![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
-![Palestine](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
-![Algeria](https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg)
 
 
 
