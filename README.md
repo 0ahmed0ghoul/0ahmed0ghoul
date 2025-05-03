@@ -1,10 +1,11 @@
+![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
+
 # 💫 About Me:
 Im currently studying , <br>Im a web developer (2 years of experience)<br>
 
-
-![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
-
-
+# Focusing on enhancing my js and ts skills
+# Front-end developer  
+# Feel free to connect with me if you're interested in collaborating on web development projects!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmd.ghwl.918968) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ga.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghoul-ahmed-dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GA4dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0ahmedghoul0@gmail.com) 
